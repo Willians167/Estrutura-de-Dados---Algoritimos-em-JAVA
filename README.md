@@ -1,5 +1,3 @@
-Aqui está um exemplo de um README com ícones divertidos para o seu plano de estudos e as configurações necessárias para executar os códigos em Java:
-
 ---
 
 # 🚀 **Data Structures and Algorithms in Java - Study Journey** 📘
@@ -25,7 +23,7 @@ A cada capítulo e avanço, vou compartilhar implementações e testes práticos
 ### **Passos para executar** 🚀
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Willians167/Estrutura-de-Dados-e-Algoritimos-em-JAVA.git
    ```
    
 2. Navegue até a pasta do projeto:
